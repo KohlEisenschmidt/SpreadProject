@@ -4,6 +4,7 @@ body{
     background: #C5CBE3;
 }
 h1 {
+    font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
     color: #FF652F;
 }
@@ -12,11 +13,21 @@ h1 {
     float: right;
 } */
 h2{
+    font-family: 'Source Sans Pro', sans-serif;
     color: #FF652F;
 }
 
+h3{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
 h5{
+    font-family: 'Source Sans Pro', sans-serif;
     color: #206934;
+}
+
+p{
+    font-family: 'Source Sans Pro', sans-serif;
 }
 .podcastEntryWrapper {
     /* border: 2px solid red; */
